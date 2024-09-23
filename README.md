@@ -1,0 +1,1 @@
+# plugins-better-rest-api-featured-images
